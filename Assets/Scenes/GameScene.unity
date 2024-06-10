@@ -894,7 +894,7 @@ PrefabInstance:
     - target: {fileID: 6469687145593214519, guid: f2df1aa80aeb7854cbc58a01eaf0cc22,
         type: 3}
       propertyPath: m_RootOrder
-      value: 8
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 6469687145593214519, guid: f2df1aa80aeb7854cbc58a01eaf0cc22,
         type: 3}
@@ -995,7 +995,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &6469687145781797064
+--- !u!1001 &2007294015
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -1006,12 +1006,12 @@ PrefabInstance:
     - target: {fileID: 6469687145593214517, guid: f2df1aa80aeb7854cbc58a01eaf0cc22,
         type: 3}
       propertyPath: m_Name
-      value: ClearCounter
+      value: ClearCounter (2)
       objectReference: {fileID: 0}
     - target: {fileID: 6469687145593214519, guid: f2df1aa80aeb7854cbc58a01eaf0cc22,
         type: 3}
       propertyPath: m_RootOrder
-      value: 7
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 6469687145593214519, guid: f2df1aa80aeb7854cbc58a01eaf0cc22,
         type: 3}
@@ -1063,6 +1063,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9163610140584316654, guid: f2df1aa80aeb7854cbc58a01eaf0cc22,
+        type: 3}
+      propertyPath: tomatoPrefab
+      value: 
+      objectReference: {fileID: 5527088771598724988, guid: 8eaba70f67726224dac9e40e78fbaa23,
+        type: 3}
+    - target: {fileID: 9163610140584316654, guid: f2df1aa80aeb7854cbc58a01eaf0cc22,
+        type: 3}
+      propertyPath: kitchenObjectSO
+      value: 
+      objectReference: {fileID: 11400000, guid: 29c469dd8f747e9489c600894d9d2a2e,
+        type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
