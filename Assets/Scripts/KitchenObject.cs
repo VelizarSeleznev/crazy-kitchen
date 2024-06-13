@@ -6,8 +6,20 @@ public class KitchenObject : MonoBehaviour
 {
     [SerializeField] private KitchenObjectSO kitchenObjectSo;
 
+    private ClearCounter clearCounter;
+
     public KitchenObjectSO GetKitchenObjectSO()
     {
         return kitchenObjectSo;
+    }
+
+    public void SetClearCounter(ClearCounter clearCounter)
+    {
+        this.clearCounter = clearCounter;
+    }
+
+    public ClearCounter GetClearCounter()
+    {
+        return clearCounter;
     }
 }
