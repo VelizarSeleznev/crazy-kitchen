@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82f896bf-e532-4d63-9eeb-aa9aade58192" name="Changes" comment="working spawn of objects and moving from one counter to another">
+    <list default="true" id="82f896bf-e532-4d63-9eeb-aa9aade58192" name="Changes" comment="some changes in the scene">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.crazy kitchen/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.crazy kitchen/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Counters/ClearCounter.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Counters/ClearCounter.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Counters/ClearCounter.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Counters/ClearCounter.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/ClearCounter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ClearCounter.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/KitchenObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/KitchenObject.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SelectedCounterVisual.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SelectedCounterVisual.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +39,10 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/Users/veliz/crazy kitchen/Assets/Scenes/GameScene.unity" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/veliz/crazy kitchen/Assets/Scripts/ClearCounter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/veliz/crazy kitchen/Assets/Scripts/ClearCounter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ContainerCounter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/IKitchenObjectParent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/KitchenObject.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -122,7 +128,7 @@
       <workItem from="1717957335007" duration="1193000" />
       <workItem from="1718010739404" duration="3376000" />
       <workItem from="1718259904046" duration="1947000" />
-      <workItem from="1718354007179" duration="2372000" />
+      <workItem from="1718354007179" duration="6016000" />
     </task>
     <task id="LOCAL-00001" summary="Tomato spawner">
       <option name="closed" value="true" />
@@ -148,7 +154,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718355046874</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Player can grab objects">
+      <option name="closed" value="true" />
+      <created>1718356595188</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718356595188</updated>
+    </task>
+    <task id="LOCAL-00005" summary="some changes in the scene">
+      <option name="closed" value="true" />
+      <created>1718356633697</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718356633697</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,6 +201,8 @@
     <MESSAGE value="Merge pull request #1 from VelizarSeleznev/dev&#10;&#10;3:23:50" />
     <MESSAGE value="communication between counters" />
     <MESSAGE value="working spawn of objects and moving from one counter to another" />
-    <option name="LAST_COMMIT_MESSAGE" value="working spawn of objects and moving from one counter to another" />
+    <MESSAGE value="Player can grab objects" />
+    <MESSAGE value="some changes in the scene" />
+    <option name="LAST_COMMIT_MESSAGE" value="some changes in the scene" />
   </component>
 </project>
