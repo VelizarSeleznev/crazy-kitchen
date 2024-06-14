@@ -137,8 +137,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 42672a13ec101c745944e999398839f5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clearCounter: {fileID: 4297608555333641389}
-  visualGameObject: {fileID: 4451387356951899098}
+  baseCounter: {fileID: 4297608555333641389}
+  visualGameObjectArray:
+  - {fileID: 4451387356951899098}
 --- !u!1001 &5540142992483604538
 PrefabInstance:
   m_ObjectHideFlags: 0
