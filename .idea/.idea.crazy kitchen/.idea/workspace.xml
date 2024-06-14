@@ -35,7 +35,6 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock://C:/Users/veliz/crazy kitchen/Assets/Scenes/GameScene.unity" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/veliz/crazy kitchen/Assets/Scripts/ClearCounter.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/KitchenObject.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -120,7 +119,8 @@
       <workItem from="1717407077118" duration="31000" />
       <workItem from="1717957335007" duration="1193000" />
       <workItem from="1718010739404" duration="3376000" />
-      <workItem from="1718259904046" duration="939000" />
+      <workItem from="1718259904046" duration="1947000" />
+      <workItem from="1718354007179" duration="965000" />
     </task>
     <task id="LOCAL-00001" summary="Tomato spawner">
       <option name="closed" value="true" />
@@ -130,7 +130,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718012564167</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="communication between counters">
+      <option name="closed" value="true" />
+      <created>1718261126708</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718261126708</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +166,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Tomato spawner" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tomato spawner" />
+    <MESSAGE value="Merge pull request #1 from VelizarSeleznev/dev&#10;&#10;3:23:50" />
+    <MESSAGE value="communication between counters" />
+    <option name="LAST_COMMIT_MESSAGE" value="communication between counters" />
   </component>
 </project>
