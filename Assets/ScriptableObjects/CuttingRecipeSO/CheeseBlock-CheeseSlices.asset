@@ -9,9 +9,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed948af295d283c4fa1c0d5f5b7e8496, type: 3}
+  m_Script: {fileID: 11500000, guid: 2c1b9d05eef7cd94a9f0a6c230c7aefb, type: 3}
   m_Name: CheeseBlock-CheeseSlices
   m_EditorClassIdentifier: 
-  input: {fileID: 11400000, guid: 29c469dd8f747e9489c600894d9d2a2e, type: 2}
-  output: {fileID: 11400000, guid: 4b1705b43160c4a40a6223b16a71e809, type: 2}
+  input: {fileID: 11400000, guid: 8fd6ae235d3fd22418d2f744dee1a974, type: 2}
+  output: {fileID: 11400000, guid: 8119098929e2ba14baf2c6ad491cf05e, type: 2}
   cuttingProgressMax: 3

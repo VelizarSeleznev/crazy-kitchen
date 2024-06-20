@@ -1,15 +1,17 @@
-using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class ContainerCounterVisual : MonoBehaviour
 {
-
     private const string OPEN_CLOSE = "OpenClose";
 
+
     [SerializeField] private ContainerCounter containerCounter;
+
+
     private Animator animator;
+
 
     private void Awake()
     {
@@ -18,10 +20,10 @@ public class ContainerCounterVisual : MonoBehaviour
 
     private void Start()
     {
-        containerCounter.OnPlayerGrabObject += ContainerCounterOnOnPlayerGrabObject;
+        containerCounter.OnPlayerGrabbedObject += ContainerCounter_OnPlayerGrabbedObject;
     }
 
-    private void ContainerCounterOnOnPlayerGrabObject(object sender, EventArgs e)
+    private void ContainerCounter_OnPlayerGrabbedObject(object sender, System.EventArgs e)
     {
         animator.SetTrigger(OPEN_CLOSE);
     }

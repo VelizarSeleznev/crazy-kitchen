@@ -6,13 +6,97 @@
   <component name="ChangeListManager">
     <list default="true" id="82f896bf-e532-4d63-9eeb-aa9aade58192" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.crazy kitchen/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.crazy kitchen/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlayerInputActions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PlayerInputActions.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PlayerInputActions.inputactions" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PlayerInputActions.inputactions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Counters.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Counters.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Counters/ClearCounter.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Counters/ClearCounter.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Counters/ClearCounter.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Counters/ClearCounter.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Counters/ContainerCounter.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Counters/ContainerCounter.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Counters/ContainerCounter.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Counters/ContainerCounter.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Counters/ContainerCounter_Bread.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Counters/ContainerCounter_Bread.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Counters/ContainerCounter_Bread.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Counters/ContainerCounter_Bread.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Counters/ContainerCounter_Cabbage.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Counters/ContainerCounter_Cabbage.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Counters/ContainerCounter_Cabbage.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Counters/ContainerCounter_Cabbage.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Counters/ContainerCounter_CheeseBlock.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Counters/ContainerCounter_CheeseBlock.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Counters/ContainerCounter_CheeseBlock.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Counters/ContainerCounter_CheeseBlock.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Counters/ContainerCounter_MeatPattyUncooked.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Counters/ContainerCounter_MeatPattyUncooked.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Counters/ContainerCounter_MeatPattyUncooked.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Counters/ContainerCounter_MeatPattyUncooked.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Counters/ContainerCounter_Tomato.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Counters/ContainerCounter_Tomato.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Counters/ContainerCounter_Tomato.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Counters/ContainerCounter_Tomato.prefab.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Counters/CuttingCounter.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Counters/CuttingCounter.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Counters/CuttingCounter.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Counters/CuttingCounter.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Counters/_BaseCounter.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Counters/_BaseCounter.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Counters/_BaseCounter.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Counters/_BaseCounter.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/KitchenObjects.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/KitchenObjects.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/KitchenObjects/Bread.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/KitchenObjects/Bread.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/KitchenObjects/Bread.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/KitchenObjects/Bread.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/KitchenObjects/Cabbage.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/KitchenObjects/Cabbage.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/KitchenObjects/Cabbage.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/KitchenObjects/Cabbage.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/KitchenObjects/CabbageSlices.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/KitchenObjects/CabbageSlices.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/KitchenObjects/CabbageSlices.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/KitchenObjects/CabbageSlices.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/KitchenObjects/CheeseBlock.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/KitchenObjects/CheeseBlock.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/KitchenObjects/CheeseBlock.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/KitchenObjects/CheeseBlock.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/KitchenObjects/CheeseSlices.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/KitchenObjects/CheeseSlices.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/KitchenObjects/CheeseSlices.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/KitchenObjects/CheeseSlices.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/KitchenObjects/MeatPattyUncooked.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/KitchenObjects/MeatPattyUncooked.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/KitchenObjects/MeatPattyUncooked.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/KitchenObjects/MeatPattyUncooked.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/KitchenObjects/Tomato.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/KitchenObjects/Tomato.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/KitchenObjects/Tomato.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/KitchenObjects/Tomato.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/KitchenObjects/TomatoSlices.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/KitchenObjects/TomatoSlices.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/KitchenObjects/TomatoSlices.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/KitchenObjects/TomatoSlices.prefab.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BaseCounter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BaseCounter.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ContainerCounter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ContainerCounter.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CuttingCounter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CuttingCounter.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CuttingRecipeSO.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CuttingRecipeSO.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CuttingRecipeSO/Cabbage-CabbageSlices.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CuttingRecipeSO/Cabbage-CabbageSlices.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CuttingRecipeSO/Cabbage-CabbageSlices.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CuttingRecipeSO/Cabbage-CabbageSlices.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CuttingRecipeSO/CheeseBlock-CheeseSlices.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CuttingRecipeSO/CheeseBlock-CheeseSlices.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CuttingRecipeSO/CheeseBlock-CheeseSlices.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CuttingRecipeSO/CheeseBlock-CheeseSlices.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CuttingRecipeSO/Tomato-TomatoSlices.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CuttingRecipeSO/Tomato-TomatoSlices.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/CuttingRecipeSO/Tomato-TomatoSlices.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/CuttingRecipeSO/Tomato-TomatoSlices.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/KitchenObjectSO.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/KitchenObjectSO.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/KitchenObjectSO/Bread.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/KitchenObjectSO/Bread.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/KitchenObjectSO/Bread.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/KitchenObjectSO/Bread.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/KitchenObjectSO/Cabbage.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/KitchenObjectSO/Cabbage.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/KitchenObjectSO/Cabbage.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/KitchenObjectSO/Cabbage.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/KitchenObjectSO/CabbageSlices.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/KitchenObjectSO/CabbageSlices.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/KitchenObjectSO/CabbageSlices.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/KitchenObjectSO/CabbageSlices.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/KitchenObjectSO/CheeseBlock.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/KitchenObjectSO/CheeseBlock.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/KitchenObjectSO/CheeseBlock.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/KitchenObjectSO/CheeseBlock.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/KitchenObjectSO/CheeseSlices.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/KitchenObjectSO/CheeseSlices.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/KitchenObjectSO/CheeseSlices.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/KitchenObjectSO/CheeseSlices.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/KitchenObjectSO/MeatPattyUncooked.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/KitchenObjectSO/MeatPattyUncooked.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/KitchenObjectSO/MeatPattyUncooked.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/KitchenObjectSO/MeatPattyUncooked.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/KitchenObjectSO/Tomato.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/KitchenObjectSO/Tomato.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/KitchenObjectSO/Tomato.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/KitchenObjectSO/Tomato.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/KitchenObjectSO/TomatoSlices.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/KitchenObjectSO/TomatoSlices.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/KitchenObjectSO/TomatoSlices.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/KitchenObjectSO/TomatoSlices.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BaseCounter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BaseCounter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ClearCounter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ClearCounter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ContainerCounter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ContainerCounter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ContainerCounterVisual.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ContainerCounterVisual.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CuttingCounter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CuttingCounter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CuttingCounterVisual.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CuttingCounterVisual.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CuttingRecipeSO.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CuttingRecipeSO.cs.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameInput.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameInput.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/IKitchenObjectParent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/IKitchenObjectParent.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/IKitchenObjectParent.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/IKitchenObjectParent.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/KitchenObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/KitchenObject.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/KitchenObject.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/KitchenObject.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/KitchenObjectSO.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/KitchenObjectSO.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ProgressBarUI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ProgressBarUI.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ProgressBarUI.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ProgressBarUI.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SelectedCounterVisual.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SelectedCounterVisual.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,10 +124,10 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ContainerCounter.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CuttingRecipeSO.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/IKitchenObjectParent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/KitchenObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LookAtCamera.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/BurningRecipeSO.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
@@ -130,7 +214,11 @@
       <workItem from="1718354007179" duration="9324000" />
       <workItem from="1718446900063" duration="2118000" />
       <workItem from="1718472402657" duration="4932000" />
-      <workItem from="1718527607334" duration="6573000" />
+      <workItem from="1718527607334" duration="7453000" />
+      <workItem from="1718705829377" duration="1826000" />
+      <workItem from="1718786178414" duration="3486000" />
+      <workItem from="1718818846031" duration="5604000" />
+      <workItem from="1718885856567" duration="2792000" />
     </task>
     <task id="LOCAL-00001" summary="Tomato spawner">
       <option name="closed" value="true" />
@@ -196,7 +284,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718483062861</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Cutting counter made + made better than in video">
+      <option name="closed" value="true" />
+      <created>1718551976389</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1718551976389</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,6 +328,7 @@
     <MESSAGE value="added base counter class, but not modified selected counter script yet" />
     <MESSAGE value="logic for container added" />
     <MESSAGE value="cutting counter with basic logic implemented" />
-    <option name="LAST_COMMIT_MESSAGE" value="cutting counter with basic logic implemented" />
+    <MESSAGE value="Cutting counter made + made better than in video" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cutting counter made + made better than in video" />
   </component>
 </project>

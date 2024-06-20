@@ -1,7 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.Serialization;
 
 public class SelectedCounterVisual : MonoBehaviour {
 
@@ -23,15 +22,13 @@ public class SelectedCounterVisual : MonoBehaviour {
     }
 
     private void Show() {
-        foreach (GameObject visualGameObject in visualGameObjectArray)
-        {
+        foreach (GameObject visualGameObject in visualGameObjectArray) {
             visualGameObject.SetActive(true);
         }
     }
 
     private void Hide() {
-        foreach (GameObject visualGameObject in visualGameObjectArray)
-        {
+        foreach (GameObject visualGameObject in visualGameObjectArray) {
             visualGameObject.SetActive(false);
         }
     }
