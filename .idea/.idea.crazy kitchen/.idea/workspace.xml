@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82f896bf-e532-4d63-9eeb-aa9aade58192" name="Changes" comment="Added stove counter, refactored code">
+    <list default="true" id="82f896bf-e532-4d63-9eeb-aa9aade58192" name="Changes" comment="Added plates counter">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.crazy kitchen/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.crazy kitchen/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/KitchenObjects/Plate.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/KitchenObjects/Plate.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Counters/ClearCounter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Counters/ClearCounter.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Counters/CuttingCounter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Counters/CuttingCounter.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Counters/StoveCounter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Counters/StoveCounter.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/KitchenObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/KitchenObject.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Assets/PrefabsVisuals/PlateCompleteVisual.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Assets/PrefabsVisuals/PlateCompleteVisual.prefab.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +41,8 @@
 }</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="mock://C:/Users/veliz/crazy kitchen/Assets/Prefabs/Counters/_BaseCounter.prefab" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/veliz/crazy kitchen/Assets/Scenes/GameScene.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/veliz/crazy kitchen/Assets/Scripts/Counters/ClearCounter.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/IKitchenObjectParent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/KitchenObject.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LookAtCamera.cs" root0="FORCE_HIGHLIGHTING" />
@@ -129,7 +137,7 @@
       <workItem from="1718705829377" duration="1826000" />
       <workItem from="1718786178414" duration="3486000" />
       <workItem from="1718818846031" duration="5604000" />
-      <workItem from="1718885856567" duration="6907000" />
+      <workItem from="1718885856567" duration="13769000" />
     </task>
     <task id="LOCAL-00001" summary="Tomato spawner">
       <option name="closed" value="true" />
@@ -211,7 +219,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718898430247</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Added plates counter">
+      <option name="closed" value="true" />
+      <created>1718983036991</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1718983036991</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,6 +265,7 @@
     <MESSAGE value="cutting counter with basic logic implemented" />
     <MESSAGE value="Cutting counter made + made better than in video" />
     <MESSAGE value="Added stove counter, refactored code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added stove counter, refactored code" />
+    <MESSAGE value="Added plates counter" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added plates counter" />
   </component>
 </project>
